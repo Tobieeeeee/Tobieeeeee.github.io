@@ -1,0 +1,41 @@
+.container{
+    width: 60vw;
+    display: flex;
+    width : 40vw;
+    border : 2.5px solid #12201e;
+    border-radius: 15px;
+    align-items: center;
+
+}
+
+
+
+.content{
+    width:50%;
+    text-align: center;
+}
+.content p{
+    color : #2d4e49;
+}
+.content h1{
+    color : #adcfca;
+    font-size: 25px;
+}
+.content button{
+    background-color: #497f77;
+    color: #ffffff;
+    border-radius: 10px;
+    padding: 8px;
+}
+
+
+.image {
+    width: 50%;
+    border-left: 2px solid #12201e;
+    padding : 10px;
+}
+
+.image img{
+    width: 100%;
+    border-radius: 10px;
+}
